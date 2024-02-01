@@ -1,9 +1,9 @@
-console.log(sum);
+console.log("Hola queso crema");
+
 let a = 3;
 let b = 4;
 function sum(a,b){
-    let sum = a + b;
-    return sum;
+    return a + b;     
 }
+console.log(sum(a,b));
 
-console.log("Hola queso crema");
